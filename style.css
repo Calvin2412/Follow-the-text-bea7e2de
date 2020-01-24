@@ -1,0 +1,22 @@
+.tooltip {
+    position: fixed;
+    top: 5px; left: 1500px;
+}
+
+ 
+
+.tooltip-content {
+    visibility: hidden;
+    position: relative;  
+}
+
+ 
+
+.tooltip-content:hover {
+  background-color: black;
+  color :white;
+  width: 400px;
+  height: 100px;
+  }
+
+}
